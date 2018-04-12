@@ -1,0 +1,16 @@
+C:\Users\myuser\source\repos\SnakeGameBySakina\GameWindow\bin\Debug\GameWindow.exe.config
+C:\Users\myuser\source\repos\SnakeGameBySakina\GameWindow\bin\Debug\GameWindow.exe
+C:\Users\myuser\source\repos\SnakeGameBySakina\GameWindow\bin\Debug\GameWindow.pdb
+C:\Users\myuser\source\repos\SnakeGameBySakina\GameWindow\obj\Debug\GameWindow.Properties.Resources.resources
+C:\Users\myuser\source\repos\SnakeGameBySakina\GameWindow\obj\Debug\GameWindow.csproj.GenerateResource.Cache
+C:\Users\myuser\source\repos\SnakeGameBySakina\GameWindow\obj\Debug\GameWindow.csproj.CoreCompileInputs.cache
+C:\Users\myuser\source\repos\SnakeGameBySakina\GameWindow\obj\Debug\GameWindow.exe
+C:\Users\myuser\source\repos\SnakeGameBySakina\GameWindow\obj\Debug\GameWindow.pdb
+C:\Users\myuser\source\repos\SnakeGameBySakina\GameWindow\bin\Debug\Interop.WMPLib.dll
+C:\Users\myuser\source\repos\SnakeGameBySakina\GameWindow\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\myuser\source\repos\SnakeGameBySakina\GameWindow\obj\Debug\Interop.WMPLib.dll
+C:\Users\myuser\source\repos\SnakeGameBySakina\GameWindow\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\myuser\source\repos\SnakeGameBySakina\GameWindow\obj\Debug\GameWindow.csproj.ResolveComReference.cache
+C:\Users\myuser\source\repos\SnakeGameBySakina\GameWindow\obj\Debug\GameWindow.GameWindow.resources
+C:\Users\myuser\source\repos\SnakeGameBySakina\GameWindow\obj\Debug\GameWindow.csprojResolveAssemblyReference.cache
+C:\Users\myuser\source\repos\SnakeGameBySakina\GameWindow\obj\Debug\GameWindow.StartPage.resources
